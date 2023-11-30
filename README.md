@@ -1,6 +1,6 @@
 # 👋🏻 Samuel Alves Navarro
 
-***🌱 Atualmente cursando o ensino médio técnico em informática no IFSP - Campus Birigui, buscando um dia me tornar desenvolvedor web***
+***🌱 Atualmente cursando o ensino médio técnico em informática no IFSP - Campus Birigui, buscando um dia me tornar desenvolvedor software***
 
 
 ### Git Stats
