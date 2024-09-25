@@ -27,4 +27,3 @@
 ### Contatos
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:samuel.alves.dio.me@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/SamuelAlvesNavarro/)
