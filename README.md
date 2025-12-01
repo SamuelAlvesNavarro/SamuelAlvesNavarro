@@ -5,8 +5,6 @@
 
 ### Git Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelAlvesNavarro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelAlvesNavarro&theme=bear&background=000&border=ffa400&dates=pink)](https://git.io/streak-stats)
 <br>
 
