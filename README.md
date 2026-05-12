@@ -1,6 +1,6 @@
 # 👋🏻 Samuel Alves Navarro
 
-***🌱 Atualmente cursando Ciência da Computação - Unesp campus Bauru, buscando um dia me tornar desenvolvedor de software***
+***🌱 Atualmente cursando Ciência da Computação - Unesp campus Bauru***
 
 
 ### Git Stats
